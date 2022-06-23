@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ### Recent Projects
 
-https://github.com/JDoelman/LaravelWebshop
+<img https://github.com/JDoelman/LaravelWebshop>
