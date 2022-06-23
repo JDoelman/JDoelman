@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ### Recent Projects
 
-<img https://github.com/JDoelman/LaravelWebshop>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JDoelman&repo=LaravelWebshop)](https://github.com/JDoelman/LaravelWebshop)
