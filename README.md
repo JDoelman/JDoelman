@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 ### 🧐About
 
 🧍‍♂️ I'm Joshua Doelman
+
 1️⃣9️⃣ years old
+
 🇳🇱 Living in the Netherlands
+
 🏀🎧
