@@ -1,4 +1,4 @@
-### Helloo, I'm Joshua Doelman 👋
+### Hi, I'm Joshua Doelman 👋
 
 <!--
 **JDoelman/JDoelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
