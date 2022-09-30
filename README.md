@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 📘 Currently in school at TCR Spijkenisse
 
-📖 Looking for an internship!
+📖 Doing my internship at W.T.
 
 💡 Interested in back-end and AI
 
